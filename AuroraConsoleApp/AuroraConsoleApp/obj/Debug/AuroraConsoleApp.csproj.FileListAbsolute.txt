@@ -1,0 +1,16 @@
+E:\RnD\Aurora\AuroraConsoleApp\AuroraConsoleApp\bin\Debug\AuroraConsoleApp.exe.config
+E:\RnD\Aurora\AuroraConsoleApp\AuroraConsoleApp\bin\Debug\AuroraConsoleApp.exe
+E:\RnD\Aurora\AuroraConsoleApp\AuroraConsoleApp\bin\Debug\AuroraConsoleApp.pdb
+E:\RnD\Aurora\AuroraConsoleApp\AuroraConsoleApp\obj\Debug\AuroraConsoleApp.csproj.AssemblyReference.cache
+E:\RnD\Aurora\AuroraConsoleApp\AuroraConsoleApp\obj\Debug\AuroraConsoleApp.csproj.CoreCompileInputs.cache
+E:\RnD\Aurora\AuroraConsoleApp\AuroraConsoleApp\obj\Debug\AuroraConsoleApp.exe
+E:\RnD\Aurora\AuroraConsoleApp\AuroraConsoleApp\obj\Debug\AuroraConsoleApp.pdb
+E:\RnD\Aurora\AuroraConsoleApp\AuroraConsoleApp\bin\Debug\xunit.abstractions.dll
+E:\RnD\Aurora\AuroraConsoleApp\AuroraConsoleApp\bin\Debug\xunit.assert.dll
+E:\RnD\Aurora\AuroraConsoleApp\AuroraConsoleApp\bin\Debug\xunit.core.dll
+E:\RnD\Aurora\AuroraConsoleApp\AuroraConsoleApp\bin\Debug\xunit.execution.desktop.dll
+E:\RnD\Aurora\AuroraConsoleApp\AuroraConsoleApp\bin\Debug\xunit.abstractions.xml
+E:\RnD\Aurora\AuroraConsoleApp\AuroraConsoleApp\bin\Debug\xunit.assert.xml
+E:\RnD\Aurora\AuroraConsoleApp\AuroraConsoleApp\bin\Debug\xunit.core.xml
+E:\RnD\Aurora\AuroraConsoleApp\AuroraConsoleApp\bin\Debug\xunit.execution.desktop.xml
+E:\RnD\Aurora\AuroraConsoleApp\AuroraConsoleApp\obj\Debug\AuroraConsoleApp.csproj.CopyComplete

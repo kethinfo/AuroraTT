@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuroraConsoleApp", "AuroraConsoleApp\AuroraConsoleApp.csproj", "{CD37DBD8-BED3-4956-8572-B7F99F3052E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD37DBD8-BED3-4956-8572-B7F99F3052E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD37DBD8-BED3-4956-8572-B7F99F3052E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD37DBD8-BED3-4956-8572-B7F99F3052E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD37DBD8-BED3-4956-8572-B7F99F3052E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8BCC7C9-365A-4810-B7BD-93FD89E002EF}
+	EndGlobalSection
+EndGlobal

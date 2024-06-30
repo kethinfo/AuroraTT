@@ -1,0 +1,6 @@
+E:\RnD\Aurora\AuroraConsoleApp\.vs\AuroraConsoleApp\v16\lut\0\b\AuroraConsoleApp.exe.config
+E:\RnD\Aurora\AuroraConsoleApp\.vs\AuroraConsoleApp\v16\lut\0\b\AuroraConsoleApp.exe
+E:\RnD\Aurora\AuroraConsoleApp\.vs\AuroraConsoleApp\v16\lut\0\i\AuroraConsoleApp\Debug\AuroraConsoleApp.csproj.AssemblyReference.cache
+E:\RnD\Aurora\AuroraConsoleApp\.vs\AuroraConsoleApp\v16\lut\0\i\AuroraConsoleApp\Debug\AuroraConsoleApp.csproj.CoreCompileInputs.cache
+E:\RnD\Aurora\AuroraConsoleApp\.vs\AuroraConsoleApp\v16\lut\0\i\AuroraConsoleApp\Debug\AuroraConsoleApp.csproj.CopyComplete
+E:\RnD\Aurora\AuroraConsoleApp\.vs\AuroraConsoleApp\v16\lut\0\i\AuroraConsoleApp\Debug\AuroraConsoleApp.exe
